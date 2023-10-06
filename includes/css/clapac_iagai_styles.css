@@ -1,0 +1,457 @@
+
+.iagai_h1 {
+    color: #2c5fa9;
+    font-size: 2.3em !important;
+    font-weight: bold !important;
+    width: 75%;
+    margin: 1em auto 0.4em auto !important;
+    text-align: center;
+    line-height: 1.6em;
+}
+
+.iagai_h2 {
+    color: #3582c4;
+    font-size: 1.8em;
+    font-weight: bold !important;
+    line-height: 1.4em;
+    text-align: center;
+    width: 75% !important;
+    margin: 1em auto;
+}
+
+.iagai_h2_subtitles_list{
+    color:#0c1976;
+    font-size: 1.4em;
+    line-height: 1.3em;
+    margin: 1.6em auto 0.6em;
+}
+
+.iagai_h3_subtitles_list{
+    color:#0c1976;
+    font-size: 1.2em;
+    margin: 0.6em auto;
+}
+
+.iagai_h3 {
+    color: #2c5fa9;
+    font-size: 1.3em;
+    margin: 1em auto;
+    width: 75%;
+    text-align: center;
+}
+
+
+.iagai_h4 {
+    font-size: 1.1em;
+    margin: 1.33em 0;
+    text-align: center;
+}
+
+.iagai_h4_green {
+    font-size: 1.2em;
+    margin: 1.33em 0;
+    color: green;
+    text-align: center;
+    margin: 3em 0 2em;
+}
+
+
+.iagai_creating_article_title {
+    color: #4990cf;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+iagai_underline{
+    text-decoration: underline;
+}
+
+.iagai_li {
+    margin-bottom: 6px;
+    margin-left: 6em;
+    /*list-style: circle;*/
+}
+
+.iagai_li_h2 {
+    color: #294f87;
+    font-weight: bold;
+}
+
+.iagai_li_h3 {
+    color: #385656;
+    font-weight: normal;
+    padding-left: 2em;
+}
+
+.iagai_li_h4 {
+    color: #8d0505;
+    font-weight: normal;
+    padding-left: 4em;
+}
+
+
+.iagai_table {
+    width: 90%;
+    text-align: center;
+    border: 1px solid #ddd;
+    margin: 16px auto;
+}
+.iagai_table_article_definitions{
+    width: 96%;
+}
+
+.iagai_table_article_definitions tr {
+    font-size: 10px;
+    margin: auto;
+}
+
+.iagai_table_subtitles_review{
+    width: 94%;
+    margin: 1em auto 0;
+    padding: 0;
+    background-color: white;
+    border-radius: 3px;
+}
+
+tr.level.selected_row{
+background-color: #c4cadf !important;
+}
+
+.iagai_table_subtitles_review tbody td{
+    padding-top: 1px !important;
+    padding-bottom: 1px !important;
+}
+
+.iagai_table_subtitles_review tbody td input[type=text]{
+    width: 100%;
+    background-color: inherit;
+    border: 0;
+    overflow-wrap: break-word;
+}
+
+.iagai_table_subtitles_review tbody td input[type=text]:focus {
+    color:darkblue;
+    overflow-wrap: break-word;
+}
+
+td.iagai_subtitle_level_2{
+    font-weight: bold;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+td.iagai_subtitle_level_3{
+    padding-left:3em !important;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+td.iagai_subtitle_level_4{
+    padding-left:6em !important;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+
+th.iagai_table_title{
+    background-color: #1e2872 !important;
+    color: white !important;
+    font-size: 1.3em;
+}
+
+
+
+.iagai_table tr thead th{
+    line-height: 1.2em;
+}
+
+.iagai_table thead th {
+    background-color: #d6e4f3;
+    color: #1e2872;
+    font-weight: bold;
+    padding: 10px;
+}
+
+
+th.iagai_title {
+    width: 35%;
+}
+.iagai_table tbody td {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+    vertical-align: middle;
+}
+
+.iagai_table tbody td input[type=text]{
+    width: 100%;
+}
+
+.iagai_checkbox {
+    width: 4%;
+}
+.iagai_big_button {
+    background-color: #4f6bd6;
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+    margin-top: 10px;
+    border: none;
+    cursor: pointer;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 33%;
+    border-radius: 5px;
+}
+.iagai_table tr:nth-child(odd) {
+    background-color: #fcfcfc;
+}
+.iagai_table tr:nth-child(even) {
+    background-color: #e9ebf9;
+}
+
+.iagai_buttons {
+    border: none;
+    cursor: pointer;
+    display: block;
+    margin: 8px auto;
+    width: 75%;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.iagai_button_subtitles_review{
+
+}
+
+input.no_edit{
+    background-color: inherit;
+    border: none;
+    box-shadow: none;
+}
+
+
+
+td.iagai_checked input[type='checkbox']:checked {
+    /* Estilos para checkboxes marcados dentro de <td class='iagai_checked'> */
+    position: relative;
+    text-align: center;
+    top: 18px;
+    font-size: 18px;
+    color: darkgreen;
+    opacity: 1;
+    box-shadow: none;
+    border: none;
+    background-color: inherit;
+    margin: 0 auto;
+}
+
+td.iagai_checked input[type='checkbox'] {
+    /* Estilos para checkboxes marcados dentro de <td class='iagai_checked'> */
+    box-shadow: none;
+    border: none;
+    background-color: inherit;
+}
+
+td.iagai_checked input[type='checkbox']:checked:before {
+    content: "✔";
+}
+
+
+/* Css para mostrar os checkbox da classe 'iagai_checked' content: "\2714"  no lugar do checkbox padrão */
+/*.iagai_checked {*/
+/*    -webkit-appearance: none;*/
+/*    -moz-appearance: none;*/
+/*    content: "\2714";*/
+/*    width: 18px;*/
+/*    height: 18px;*/
+/*    padding-right: 20px;*/
+/*    margin-right: 10px;*/
+/*    display: inline-block;*/
+/*    vertical-align: middle;*/
+/*    outline: none;*/
+/*    opacity: 1;*/
+/*    pointer-events: none;*/
+/*    color: #000;*/
+/*!important;*/
+/*}*/
+
+input.rewrite_subtitles{
+    width:30%;
+}
+
+.iagai_button_subjects_definition {
+    width: 10em;
+}
+
+.iagai_post_generation_start_button{
+    width: 73%;
+    background-color: #008dff !important;
+}
+
+.iagai_wrap {
+    display: flex;
+    font-size: 1em;
+    justify-content: center;
+    align-items: stretch;
+    flex-direction: column;
+    margin: 2em auto;
+    width: 70%;
+    //background-color: white;
+    padding: 1em 0;
+}
+
+.iagai_wrap_full_size{
+    width: 96%;
+}
+
+
+.iagai_help_button {
+    font-size: 14px !important;
+    line-height: 16px!important;
+    color: #2271b1!important;
+    background-color: inherit!important;
+    padding: 0!important;
+    margin-bottom: 4px;
+}
+
+.iagai_modal_dialog{
+    max-width: 720px !important;
+    text-align: left;
+}
+
+.iagai_modal_title{
+    color: #3582c4;
+}
+
+.iagai_modal_body {
+    padding: 0 4rem !important;
+}
+
+.iagai_modal_body ul li {
+    margin: 1.5em auto;
+    list-style: circle;
+}
+
+
+/*     SETTINGS SCREEN */
+.iagai_wrap #tab_container {
+    background-color: white;
+    padding: 1em;
+    border-radius: 6px;
+}
+
+.iagai_wrap #tab-api_settings {
+    padding-bottom: 8em;
+}
+
+.iagai_wrap .form-table {
+    margin-top: 3em;
+}
+
+
+.iagai_wrap label {
+    color: #1e2872;
+    font-weight: bold;
+    margin-left: 0.5em;
+}
+
+.iagai_writing_settings_wrap, .iagai_writing_settings_wrap form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 12px;
+    text-align: center;
+}
+
+.iagai_wrap .tab_container {
+    background-color: white;
+    padding: 1em;
+    border-radius: 6px;
+}
+
+.iagai_settings_title{
+    color: #1e2872;
+    margin-top: 4px;
+}
+
+.iagai_writing_settings_attribute {
+    background-color: #fff;
+    padding-top: 1em;
+    border-radius: 4px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    align-content: center;
+}
+
+.iagai_writing_setting_form {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 0 1em auto !important;
+    width: 84%;
+    /*background: #d6e4f3;*/
+    border-radius: inherit;
+}
+
+.iagai_left_column,
+.iagai_right_column {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 47%;
+    height: 10em;
+    margin: 0 0em 0.4em;
+    padding: 0.6em 0em 0.6em;
+    min-width: 18em;
+    /*border-radius: 4px;*/
+    overflow-y: auto;
+    /*border: 1px solid #ececec;*/
+    flex-direction: column;
+}
+
+.iagai_left_column label,
+.iagai_right_column label{
+    font-size: 1em !important;
+    color: #1e2872;
+    display: inline-block;
+    width: 10em;
+    margin: 0.5em auto 0.4em;
+    text-align: center;
+    font-weight: bold;
+}
+
+.iagai_writing_settings_attribute label{
+    font-size: 1.3em;
+}
+
+.iagai_left_column select,
+.iagai_right_column select {
+    width: 15.4em;
+    min-height: 7em;
+    margin: 0 0.4em;
+}
+
+.iagai_writing_settings_buttom_column {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 1.4em 0.1em 0 0.1em;
+    flex-direction: column
+}
+
+.iagai_writing_settings_buttom_column input{
+    margin:3px 0;
+}
+
+.iagai_writing_settings_submit_form {
+    margin: 10px 0;
+    display: flex;
+    justify-content: center;
+}
+

@@ -1,0 +1,15 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+.iagai_photo_search_preview {
+    display: inline-block;
+    vertical-align: top;
+    width: 150px;
+}
+.iagai_photo_search_description {
+    display: inline-block;
+    padding-left: 30px;
+    vertical-align: bottom;
+}
+

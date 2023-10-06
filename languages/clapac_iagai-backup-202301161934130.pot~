@@ -1,0 +1,281 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Clapac IAGAI (Image Attributes Generator with Artificial "
+"Intelligence)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-01-11 04:30+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1\n"
+"X-Domain: clapac_iagai"
+
+#: includes/AI_Config.php:30
+msgid "Academic"
+msgstr ""
+
+#: includes/AI_Config.php:10
+msgid "Amused"
+msgstr ""
+
+#: includes/AI_Config.php:11
+msgid "Angry"
+msgstr ""
+
+#: includes/class-clapac_iagai_settings.php:267
+#: includes/class-clapac_iagai_settings.php:288
+#: includes/class-clapac_iagai_settings.php:310
+msgid "Available"
+msgstr ""
+
+#: includes/AI_Config.php:50
+msgid "Blog post"
+msgstr ""
+
+#: includes/AI_Config.php:12
+msgid "Bored"
+msgstr ""
+
+#: includes/AI_Config.php:51
+msgid "Business letter"
+msgstr ""
+
+#: includes/AI_Config.php:31
+msgid "Businesslike"
+msgstr ""
+
+#: includes/AI_Config.php:13
+msgid "Calm"
+msgstr ""
+
+#: includes/AI_Config.php:52
+msgid "Case study"
+msgstr ""
+
+#: includes/AI_Config.php:32
+msgid "Casual"
+msgstr ""
+
+#. Name of the plugin
+msgid "Clapac IAGAI (Image Attributes Generator with Artificial Intelligence)"
+msgstr ""
+
+#. Author of the plugin
+msgid "Claudio M. Bittencourt Pacheco"
+msgstr ""
+
+#: includes/AI_Config.php:53
+msgid "Commercial"
+msgstr ""
+
+#: includes/AI_Config.php:14
+msgid "Confident"
+msgstr ""
+
+#: includes/AI_Config.php:33
+msgid "Creative"
+msgstr ""
+
+#: includes/AI_Config.php:34
+msgid "Descriptive"
+msgstr ""
+
+#: includes/AI_Config.php:54
+msgid "Email"
+msgstr ""
+
+#: includes/AI_Config.php:35
+msgid "Emotional"
+msgstr ""
+
+#: includes/AI_Config.php:15
+msgid "Enthusiastic"
+msgstr ""
+
+#: includes/AI_Config.php:55
+msgid "Essay"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Este plugin gera automaticamente os atributos altText, Description, Title e "
+"um arquivo CSV com o nome atual do arquivo e uma sugestão de nome."
+msgstr ""
+
+#: includes/AI_Config.php:16
+msgid "Excited"
+msgstr ""
+
+#: includes/AI_Config.php:36
+msgid "Formal"
+msgstr ""
+
+#: includes/AI_Config.php:17
+msgid "Frustrated"
+msgstr ""
+
+#: includes/AI_Config.php:18
+msgid "Happy"
+msgstr ""
+
+#: includes/AI_Config.php:19
+msgid "Hopeful"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.meuscaminhos.com.br"
+msgstr ""
+
+#: includes/AI_Config.php:37
+msgid "Humorous"
+msgstr ""
+
+#: includes/AI_Config.php:38
+msgid "Informal"
+msgstr ""
+
+#: includes/AI_Config.php:56
+msgid "Informative"
+msgstr ""
+
+#: includes/AI_Config.php:39
+msgid "Inspirational"
+msgstr ""
+
+#: includes/AI_Config.php:57
+msgid "Instructional"
+msgstr ""
+
+#: includes/AI_Config.php:58
+msgid "Manual"
+msgstr ""
+
+#: includes/AI_Config.php:20
+msgid "Melancholic"
+msgstr ""
+
+#: includes/class-clapac_iagai_settings.php:307
+msgid "Mood / Emotion"
+msgstr ""
+
+#: includes/AI_Config.php:40
+msgid "Narrative"
+msgstr ""
+
+#: includes/AI_Config.php:59
+msgid "News article"
+msgstr ""
+
+#: includes/AI_Config.php:21
+msgid "Nostalgic"
+msgstr ""
+
+#: includes/AI_Config.php:41
+msgid "Objective"
+msgstr ""
+
+#: includes/AI_Config.php:42
+msgid "Persuasive"
+msgstr ""
+
+#: includes/AI_Config.php:43
+msgid "Playful"
+msgstr ""
+
+#: includes/AI_Config.php:60
+msgid "Poetry"
+msgstr ""
+
+#: includes/AI_Config.php:61
+msgid "Product Description"
+msgstr ""
+
+#: includes/AI_Config.php:44
+msgid "Professional"
+msgstr ""
+
+#: includes/AI_Config.php:62
+msgid "Recipe"
+msgstr ""
+
+#: includes/AI_Config.php:22
+msgid "Relaxed"
+msgstr ""
+
+#: includes/AI_Config.php:63
+msgid "Research paper"
+msgstr ""
+
+#: includes/AI_Config.php:23
+msgid "Romantic"
+msgstr ""
+
+#: includes/AI_Config.php:24
+msgid "Sad"
+msgstr ""
+
+#: includes/AI_Config.php:45
+msgid "Sarcastic"
+msgstr ""
+
+#: includes/AI_Config.php:64
+msgid "Script"
+msgstr ""
+
+#: includes/class-clapac_iagai_settings.php:277
+#: includes/class-clapac_iagai_settings.php:298
+#: includes/class-clapac_iagai_settings.php:320
+msgid "Selected"
+msgstr ""
+
+#: includes/AI_Config.php:65
+msgid "Short story"
+msgstr ""
+
+#: includes/AI_Config.php:66
+msgid "Song lyrics"
+msgstr ""
+
+#: includes/AI_Config.php:67
+msgid "Speech"
+msgstr ""
+
+#: includes/class-clapac_iagai_settings.php:264
+msgid "Style"
+msgstr ""
+
+#: includes/AI_Config.php:46
+msgid "Subjective"
+msgstr ""
+
+#: includes/AI_Config.php:47
+msgid "Technical"
+msgstr ""
+
+#: includes/AI_Config.php:68
+msgid "Technical document"
+msgstr ""
+
+#: includes/AI_Config.php:25
+msgid "Thoughtful"
+msgstr ""
+
+#: includes/class-clapac_iagai_settings.php:285
+msgid "Tone"
+msgstr ""
+
+#: includes/AI_Config.php:69
+msgid "Wikipedia Article"
+msgstr ""
+
+#: includes/AI_Config.php:26
+msgid "Worried"
+msgstr ""

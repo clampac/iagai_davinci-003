@@ -1,0 +1,420 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Clapac IAGAI (Image Attributes Generator with Artificial "
+"Intelligence)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-01-11 02:45+0000\n"
+"PO-Revision-Date: 2023-01-16 19:48+0000\n"
+"Last-Translator: \n"
+"Language-Team: Português do Brasil\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1\n"
+"X-Domain: clapac_iagai\n"
+"X-Loco-Template-Mode: po"
+
+#: includes/AI_Config.php:16
+msgid "Amusing"
+msgstr "Divertido"
+
+#: includes/class-clapac_iagai_settings.php:49
+msgid "API Keys"
+msgstr "Chaves de API"
+
+#: includes/class-clapac_iagai_settings.php:19
+msgid "API Settings"
+msgstr "Configurações da API"
+
+#: includes/AI_Config.php:36
+msgid "Approachable"
+msgstr "Acessível"
+
+#: includes/AI_Config.php:44
+msgid "Argumentative"
+msgstr "Argumentativo"
+
+#: includes/class-clapac_iagai_settings.php:135
+msgid "Articles per Day"
+msgstr "Artigos por dia"
+
+#: includes/class-clapac_iagai_settings.php:257
+#: includes/class-clapac_iagai_settings.php:278
+#: includes/class-clapac_iagai_settings.php:300
+msgid "Available"
+msgstr "Disponível"
+
+#. Name of the plugin
+msgid "Clapac IAGAI (Image Attributes Generator with Artificial Intelligence)"
+msgstr ""
+"Clapac IAGAI (Gerador de Atributos de Imagem com Inteligência Artificial)"
+
+#. Author of the plugin
+msgid "Claudio M. Bittencourt Pacheco"
+msgstr "Claudio M. Bittencourt Pacheco"
+
+#: includes/AI_Config.php:18
+msgid "Compassionate"
+msgstr "Compassivo"
+
+#: includes/AI_Config.php:29
+msgid "Conversational"
+msgstr "Conversacional"
+
+#: includes/AI_Config.php:43
+msgid "Describes a person, place, thing, or event."
+msgstr "Descreve uma pessoa, lugar, coisa ou evento."
+
+#: includes/AI_Config.php:43
+msgid "Descriptive"
+msgstr "Descritivo"
+
+#: includes/AI_Config.php:14
+msgid "Educational"
+msgstr "Educacional"
+
+#: includes/class-clapac_iagai_settings.php:123
+msgid "End date"
+msgstr "Data final"
+
+#: includes/class-clapac_iagai_settings.php:129
+msgid "End Time"
+msgstr "Hora final"
+
+#: includes/AI_Config.php:21
+msgid "Enthusiastic"
+msgstr "Entusiasmado"
+
+#. Description of the plugin
+msgid ""
+"Este plugin gera automaticamente os atributos altText, Description, Title e "
+"um arquivo CSV com o nome atual do arquivo e uma sugestão de nome."
+msgstr ""
+"Este plugin gera automaticamente os atributos altText, Description, Title e "
+"um arquivo CSV com o nome atual do arquivo e uma sugestão de nome."
+
+#: includes/AI_Config.php:15
+msgid "Evokes feelings of contemplation or introspection."
+msgstr "Evoca sentimentos de contemplação ou introspecção."
+
+#: includes/AI_Config.php:20
+msgid "Evokes feelings of curiosity or contemplation."
+msgstr "Evoca sentimentos de curiosidade ou contemplação."
+
+#: includes/AI_Config.php:18
+msgid "Evokes feelings of empathy or understanding."
+msgstr "Evoca sentimentos de empatia ou compreensão."
+
+#: includes/AI_Config.php:21
+msgid "Evokes feelings of excitement or positivity."
+msgstr "Evoca sentimentos de excitação ou positividade."
+
+#: includes/AI_Config.php:16
+msgid "Evokes feelings of humor or entertainment."
+msgstr "Evoca sentimentos de humor ou entretenimento."
+
+#: includes/AI_Config.php:13
+msgid "Evokes feelings of inspiration or ambition."
+msgstr "Evoca sentimentos de inspiração ou ambição."
+
+#: includes/AI_Config.php:22
+msgid "Evokes feelings of irony or mockery."
+msgstr "Evoca sentimentos de ironia ou zombaria."
+
+#: includes/AI_Config.php:14
+msgid "Evokes feelings of learning or gaining knowledge."
+msgstr "Evoca sentimentos de aprendizado ou aquisição de conhecimento."
+
+#: includes/AI_Config.php:11
+msgid "Evokes feelings of longing or reminiscence for the past."
+msgstr "Evoca sentimentos de saudade ou reminiscência do passado."
+
+#: includes/AI_Config.php:19
+msgid "Evokes feelings of love or affection."
+msgstr "Evoca sentimentos de amor ou carinho."
+
+#: includes/AI_Config.php:12
+msgid "Evokes feelings of motivation or encouragement."
+msgstr "Evoca sentimentos de motivação ou encorajamento."
+
+#: includes/AI_Config.php:17
+msgid "Evokes feelings of thrill or adventure."
+msgstr "Evoca sentimentos de emoção ou aventura."
+
+#: includes/AI_Config.php:17
+msgid "Exciting"
+msgstr "Emocionante"
+
+#: includes/AI_Config.php:45
+msgid "Explains or clarifies something in a way that is easy to understand."
+msgstr "Explica ou esclarece algo de uma maneira fácil de entender."
+
+#: includes/AI_Config.php:45
+msgid "Explanatory"
+msgstr "explicativo"
+
+#: includes/AI_Config.php:27
+msgid "Formal"
+msgstr "Formal"
+
+#: includes/AI_Config.php:49
+msgid "How-to"
+msgstr "Como"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.meuscaminhos.com.br"
+msgstr "https://www.meuscaminhos.com.br"
+
+#: includes/AI_Config.php:31
+msgid "Humorous"
+msgstr "Bem-humorado"
+
+#: includes/AI_Config.php:28
+msgid "Informal"
+msgstr "Informal"
+
+#: includes/AI_Config.php:12
+msgid "Inspirational"
+msgstr "Inspirador"
+
+#: includes/AI_Config.php:46
+msgid "Instructional"
+msgstr "Instrucional"
+
+#: includes/AI_Config.php:51
+msgid "Interview-based"
+msgstr "Baseado em entrevista"
+
+#: includes/AI_Config.php:33
+msgid "Ironical"
+msgstr "Irônico"
+
+#: includes/AI_Config.php:50
+msgid "List-based"
+msgstr "Baseado em lista"
+
+#: includes/class-clapac_iagai_settings.php:297
+msgid "Mood / Emotion"
+msgstr "Humor / Emoção"
+
+#: includes/AI_Config.php:13
+msgid "Motivational"
+msgstr "Motivacional"
+
+#: includes/AI_Config.php:42
+msgid "Narrative"
+msgstr "Narrativa"
+
+#: includes/AI_Config.php:47
+msgid "News-based"
+msgstr "Baseado em notícias"
+
+#: includes/AI_Config.php:11
+msgid "Nostalgic"
+msgstr "Nostálgico"
+
+#: includes/class-clapac_iagai_settings.php:52
+msgid "OpenAI API Key"
+msgstr "Chave da API OpenAI"
+
+#: includes/AI_Config.php:48
+msgid "Opinion-based"
+msgstr "Baseado em opinião"
+
+#: includes/AI_Config.php:38
+msgid "Passionate"
+msgstr "Apaixonado"
+
+#: includes/AI_Config.php:30
+msgid "Persuasive"
+msgstr "Persuasivo"
+
+#: includes/class-clapac_iagai_settings.php:58
+msgid "Pixabay Keys"
+msgstr "Pixabay Keys"
+
+#: includes/AI_Config.php:34
+#, fuzzy
+#| msgid "Poetry"
+msgid "Poetic"
+msgstr "Poético"
+
+#: includes/class-clapac_iagai_settings.php:20
+msgid "Posts date and time"
+msgstr "Data e hora das postagens"
+
+#: includes/AI_Config.php:48
+msgid "Presents a personal view or opinion on a topic."
+msgstr "Apresenta uma visão ou opinião pessoal sobre um tópico."
+
+#: includes/AI_Config.php:44
+msgid "Presents an argument or claims in support of a point of view."
+msgstr ""
+"Apresenta um argumento ou reivindicações em apoio de um ponto de vista."
+
+#: includes/AI_Config.php:47
+msgid "Presents information about recent events or happenings."
+msgstr "Apresenta informações sobre eventos ou acontecimentos recentes."
+
+#: includes/AI_Config.php:50
+msgid "Presents information in a list format."
+msgstr "Apresenta informações em um formato de lista."
+
+#: includes/AI_Config.php:51
+msgid "Presents information in the form of a question-and-answer format."
+msgstr "Apresenta informações na forma de um formato de pergunta e resposta."
+
+#: includes/AI_Config.php:35
+msgid "Professional"
+msgstr "Profissional"
+
+#: includes/AI_Config.php:46
+msgid "Provides instructions or guidance on how to do something."
+msgstr "Fornece instruções ou orientações sobre como fazer algo."
+
+#: includes/AI_Config.php:49
+msgid "Provides step-by-step instructions on how to do something."
+msgstr "Fornece instruções passo a passo sobre como fazer algo."
+
+#: includes/class-clapac_iagai_settings.php:108
+msgid "Publish Date and Time"
+msgstr "Data e Hora da Publicação"
+
+#: includes/AI_Config.php:15
+msgid "Reflective"
+msgstr "Reflexivo"
+
+#: includes/class-clapac_iagai_settings.php:143
+msgid "Restore defaults"
+msgstr "Restaurar padrões"
+
+#: includes/AI_Config.php:52
+msgid "Review-based"
+msgstr "Baseado em revisão"
+
+#: includes/AI_Config.php:19
+msgid "Romantic"
+msgstr "Romântico"
+
+#: includes/AI_Config.php:22 includes/AI_Config.php:32
+msgid "Sarcastic"
+msgstr "Sarcástico"
+
+#: includes/class-clapac_iagai_settings.php:64
+#: includes/class-clapac_iagai_settings.php:317
+msgid "Save"
+msgstr "Salvar"
+
+#: includes/class-clapac_iagai_settings.php:142
+msgid "Save changes"
+msgstr "Salvar alterações"
+
+#: includes/class-clapac_iagai_settings.php:267
+#: includes/class-clapac_iagai_settings.php:288
+#: includes/class-clapac_iagai_settings.php:310
+msgid "Selected"
+msgstr "Selecionado"
+
+#: includes/class-clapac_iagai_settings.php:111
+msgid "Start date"
+msgstr "Data de início"
+
+#: includes/class-clapac_iagai_settings.php:117
+msgid "Start time"
+msgstr "Hora de início"
+
+#: includes/class-clapac_iagai_settings.php:254
+msgid "Style"
+msgstr "Estilo"
+
+#: includes/AI_Config.php:42
+msgid "Tells a story or relates an event or series of events."
+msgstr "Conta uma história ou relata um evento ou uma série de eventos."
+
+#: includes/class-clapac_iagai_settings.php:22
+msgid "Text Limits"
+msgstr "Limites do texto"
+
+#: includes/AI_Config.php:20
+msgid "Thought-provoking"
+msgstr "Instigante"
+
+#: includes/AI_Config.php:37
+msgid "Thoughtful"
+msgstr "Reflexivo"
+
+#: includes/class-clapac_iagai_settings.php:275
+msgid "Tone"
+msgstr "Tom"
+
+#: includes/AI_Config.php:28
+msgid ""
+"Uses a more casual and colloquial language, with a friendly and personal "
+"tone."
+msgstr ""
+"Utiliza uma linguagem mais casual e coloquial, com um tom amigável e pessoal."
+
+#: includes/AI_Config.php:29
+msgid "Uses language similar to speech, with a relaxed and colloquial tone."
+msgstr "Utiliza linguagem semelhante à fala, com tom descontraído e coloquial."
+
+#: includes/AI_Config.php:35
+msgid ""
+"Uses language that is intended to be clear, concise, and appropriate for "
+"professional or business setting."
+msgstr ""
+"Usa uma linguagem que pretende ser clara, concisa e apropriada para "
+"ambientes profissionais ou de negócios."
+
+#: includes/AI_Config.php:36
+msgid "Uses language that is intended to be easy to understand and relate to."
+msgstr ""
+"Usa uma linguagem que se destina a ser fácil de entender e se relacionar."
+
+#: includes/AI_Config.php:34
+msgid "Uses language that is intended to be evocative and imaginative."
+msgstr "Usa uma linguagem que pretende ser evocativa e imaginativa."
+
+#: includes/AI_Config.php:31
+msgid "Uses language that is intended to be funny or amusing."
+msgstr "Usa linguagem que pretende ser engraçada ou divertida."
+
+#: includes/AI_Config.php:37
+msgid "Uses language that is intended to be reflective and contemplative."
+msgstr "Usa uma linguagem que pretende ser reflexiva e contemplativa."
+
+#: includes/AI_Config.php:33
+msgid ""
+"Uses language that is intended to convey a meaning opposite to its literal "
+"or usual sense."
+msgstr ""
+"Usa linguagem que pretende transmitir um significado oposto ao seu sentido "
+"literal ou usual."
+
+#: includes/AI_Config.php:32
+msgid "Uses language that is intended to mock or convey irony."
+msgstr "Usa linguagem destinada a zombar ou transmitir ironia."
+
+#: includes/AI_Config.php:30
+msgid ""
+"Uses language to convince or persuade the reader to take an action or "
+"opinion."
+msgstr ""
+"Usa a linguagem para convencer ou persuadir o leitor a tomar uma atitude ou "
+"opinião."
+
+#: includes/AI_Config.php:27
+msgid "Uses precise and correct language, with a serious and academic tone."
+msgstr "Usa linguagem precisa e correta, com tom sério e acadêmico."
+
+#: includes/AI_Config.php:23
+msgid "Witty"
+msgstr "Inteligente"
+
+#: includes/class-clapac_iagai_settings.php:21
+msgid "Writing"
+msgstr "Escrevendo"
